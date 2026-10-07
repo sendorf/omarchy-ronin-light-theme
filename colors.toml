@@ -1,0 +1,32 @@
+# Light counterpart of ronin: sand paper surfaces, deep teal ink, ember accents.
+mode = "light"
+
+accent = "#c4321f"
+selection = "#f6ded1"
+muted = "#6a8b90"
+
+background = "#f7f1e3"
+dark_background = "#efe8d8"
+darker_background = "#e6ddca"
+lighter_background = "#ddd4bd"
+
+foreground = "#0f3d46"
+dark_foreground = "#75898e"
+light_foreground = "#3d646c"
+bright_foreground = "#0a3139"
+
+red = "#c4321f"
+yellow = "#94651b"
+orange = "#ba4d1b"
+green = "#56713e"
+cyan = "#10646c"
+blue = "#1e5462"
+magenta = "#93404f"
+brown = "#6f4230"
+
+bright_red = "#c4321f"
+bright_yellow = "#94651b"
+bright_green = "#56713e"
+bright_cyan = "#10646c"
+bright_blue = "#1e5462"
+bright_magenta = "#93404f"
